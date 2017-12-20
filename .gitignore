@@ -1,8 +1,9 @@
 lib/
 bin/
+develop-eggs/
 include/
 parts/
-develop-eggs/
-.installed.cfg
-pip-selfcheck.json
 var/
+.installed.cfg
+lib64
+pip-selfcheck.json
